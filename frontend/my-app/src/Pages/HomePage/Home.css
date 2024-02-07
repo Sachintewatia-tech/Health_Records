@@ -1,0 +1,31 @@
+#home{
+    background-color: rgb(249, 236, 212);
+    font-weight: 600;
+}
+td,th,thead{
+    border: 1px solid black;
+}
+
+table{
+    width: 90%;
+    margin: auto;
+    border: 1px solid black;
+}
+#delete,#edit{
+    color: white;
+    border: none;
+    padding: 9px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+#delete{
+    background-color: red;
+}
+#edit{
+    background-color: aqua;
+    color: black;
+}
+a{
+    color: brown;
+    font-size: larger;
+}

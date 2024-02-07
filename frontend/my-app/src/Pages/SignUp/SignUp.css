@@ -1,0 +1,28 @@
+#sign{
+    border: 1px solid black;
+    display: block;
+    width: 20%;
+    height: 250px;
+    margin: auto;
+    text-align: left;
+    border-radius: 10px;
+    font-weight: 700;
+    padding: 2%;
+    margin-top: 2%;
+    background-color: rgb(252, 105, 130);
+}
+
+input,button{
+    width: 90%;
+    font-weight: 400;
+    border: none;
+    border-radius: 9px;
+    height: 15%;
+    font-size: large;
+}
+button{
+    margin: auto;
+    margin-top: 5%;
+    width: 93%;
+    cursor: pointer;
+}
